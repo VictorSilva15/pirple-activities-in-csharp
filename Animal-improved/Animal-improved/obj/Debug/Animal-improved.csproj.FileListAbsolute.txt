@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Animal-improved\Animal-improved\bin\Debug\Animal-improved.exe.config
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Animal-improved\Animal-improved\bin\Debug\Animal-improved.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Animal-improved\Animal-improved\bin\Debug\Animal-improved.pdb
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Animal-improved\Animal-improved\obj\Debug\Animal-improved.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Animal-improved\Animal-improved\obj\Debug\Animal-improved.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Animal-improved\Animal-improved\obj\Debug\Animal-improved.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Animal-improved\Animal-improved\obj\Debug\Animal-improved.pdb

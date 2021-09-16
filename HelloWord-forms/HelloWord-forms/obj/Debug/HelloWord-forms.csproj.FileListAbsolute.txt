@@ -1,0 +1,10 @@
+C:\Users\Cliente\Desktop\Pirple-Atictivy\HelloWord-forms\HelloWord-forms\bin\Debug\HelloWord-forms.exe.config
+C:\Users\Cliente\Desktop\Pirple-Atictivy\HelloWord-forms\HelloWord-forms\bin\Debug\HelloWord-forms.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\HelloWord-forms\HelloWord-forms\bin\Debug\HelloWord-forms.pdb
+C:\Users\Cliente\Desktop\Pirple-Atictivy\HelloWord-forms\HelloWord-forms\obj\Debug\HelloWord-forms.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\HelloWord-forms\HelloWord-forms\obj\Debug\HelloWord_forms.Form1.resources
+C:\Users\Cliente\Desktop\Pirple-Atictivy\HelloWord-forms\HelloWord-forms\obj\Debug\HelloWord_forms.Properties.Resources.resources
+C:\Users\Cliente\Desktop\Pirple-Atictivy\HelloWord-forms\HelloWord-forms\obj\Debug\HelloWord-forms.csproj.GenerateResource.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\HelloWord-forms\HelloWord-forms\obj\Debug\HelloWord-forms.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\HelloWord-forms\HelloWord-forms\obj\Debug\HelloWord-forms.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\HelloWord-forms\HelloWord-forms\obj\Debug\HelloWord-forms.pdb

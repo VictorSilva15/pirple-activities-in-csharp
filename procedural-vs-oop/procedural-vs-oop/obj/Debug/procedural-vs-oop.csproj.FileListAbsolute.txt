@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\Pirple-Atictivy\procedural-vs-oop\procedural-vs-oop\bin\Debug\procedural-vs-oop.exe.config
+C:\Users\Cliente\Desktop\Pirple-Atictivy\procedural-vs-oop\procedural-vs-oop\bin\Debug\procedural-vs-oop.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\procedural-vs-oop\procedural-vs-oop\bin\Debug\procedural-vs-oop.pdb
+C:\Users\Cliente\Desktop\Pirple-Atictivy\procedural-vs-oop\procedural-vs-oop\obj\Debug\procedural-vs-oop.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\procedural-vs-oop\procedural-vs-oop\obj\Debug\procedural-vs-oop.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\procedural-vs-oop\procedural-vs-oop\obj\Debug\procedural-vs-oop.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\procedural-vs-oop\procedural-vs-oop\obj\Debug\procedural-vs-oop.pdb

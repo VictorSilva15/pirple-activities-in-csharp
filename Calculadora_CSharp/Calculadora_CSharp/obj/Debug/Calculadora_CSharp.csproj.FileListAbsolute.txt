@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe.config
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Calculadora_CSharp\Calculadora_CSharp\bin\Debug\Calculadora_CSharp.pdb
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\Calculadora_CSharp\Calculadora_CSharp\obj\Debug\Calculadora_CSharp.pdb

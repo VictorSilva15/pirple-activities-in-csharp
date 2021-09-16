@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\Pirple-Atictivy\logicOperators\logicOperators\obj\Debug\logicOperators.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\logicOperators\logicOperators\obj\Debug\logicOperators.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\logicOperators\logicOperators\bin\Debug\logicOperators.exe.config
+C:\Users\Cliente\Desktop\Pirple-Atictivy\logicOperators\logicOperators\bin\Debug\logicOperators.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\logicOperators\logicOperators\bin\Debug\logicOperators.pdb
+C:\Users\Cliente\Desktop\Pirple-Atictivy\logicOperators\logicOperators\obj\Debug\logicOperators.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\logicOperators\logicOperators\obj\Debug\logicOperators.pdb

@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\Pirple-Atictivy\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Cliente\Desktop\Pirple-Atictivy\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Cliente\Desktop\Pirple-Atictivy\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb

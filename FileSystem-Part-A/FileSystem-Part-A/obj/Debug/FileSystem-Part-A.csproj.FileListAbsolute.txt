@@ -1,0 +1,7 @@
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\FileSystem-Part-A\FileSystem-Part-A\bin\Debug\FileSystem-Part-A.exe.config
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\FileSystem-Part-A\FileSystem-Part-A\bin\Debug\FileSystem-Part-A.exe
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\FileSystem-Part-A\FileSystem-Part-A\bin\Debug\FileSystem-Part-A.pdb
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\FileSystem-Part-A\FileSystem-Part-A\obj\Debug\FileSystem-Part-A.csprojAssemblyReference.cache
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\FileSystem-Part-A\FileSystem-Part-A\obj\Debug\FileSystem-Part-A.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\FileSystem-Part-A\FileSystem-Part-A\obj\Debug\FileSystem-Part-A.exe
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\FileSystem-Part-A\FileSystem-Part-A\obj\Debug\FileSystem-Part-A.pdb

@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\Pirple-Atictivy\vehicle\vehicle\bin\Debug\vehicle.exe.config
+C:\Users\Cliente\Desktop\Pirple-Atictivy\vehicle\vehicle\bin\Debug\vehicle.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\vehicle\vehicle\bin\Debug\vehicle.pdb
+C:\Users\Cliente\Desktop\Pirple-Atictivy\vehicle\vehicle\obj\Debug\vehicle.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\vehicle\vehicle\obj\Debug\vehicle.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\vehicle\vehicle\obj\Debug\vehicle.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\vehicle\vehicle\obj\Debug\vehicle.pdb

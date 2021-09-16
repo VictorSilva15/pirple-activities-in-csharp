@@ -1,0 +1,7 @@
+C:\Users\Cliente\Desktop\Pirple-Atictivy\classes-and-structures\classes-and-structures\bin\Debug\classes-and-structures.exe.config
+C:\Users\Cliente\Desktop\Pirple-Atictivy\classes-and-structures\classes-and-structures\bin\Debug\classes-and-structures.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\classes-and-structures\classes-and-structures\bin\Debug\classes-and-structures.pdb
+C:\Users\Cliente\Desktop\Pirple-Atictivy\classes-and-structures\classes-and-structures\obj\Debug\classes-and-structures.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\classes-and-structures\classes-and-structures\obj\Debug\classes-and-structures.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\classes-and-structures\classes-and-structures\obj\Debug\classes-and-structures.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\classes-and-structures\classes-and-structures\obj\Debug\classes-and-structures.pdb

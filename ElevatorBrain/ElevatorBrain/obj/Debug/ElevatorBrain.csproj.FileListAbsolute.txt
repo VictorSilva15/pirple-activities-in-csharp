@@ -1,0 +1,14 @@
+C:\Users\Cliente\Desktop\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\bin\Debug\ElevatorBrain.exe.config
+C:\Users\Cliente\Desktop\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\bin\Debug\ElevatorBrain.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\bin\Debug\ElevatorBrain.pdb
+C:\Users\Cliente\Desktop\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\obj\Debug\ElevatorBrain.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\obj\Debug\ElevatorBrain.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\obj\Debug\ElevatorBrain.exe
+C:\Users\Cliente\Desktop\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\obj\Debug\ElevatorBrain.pdb
+C:\Users\Cliente\Documents\Programacao\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\bin\Debug\ElevatorBrain.exe.config
+C:\Users\Cliente\Documents\Programacao\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\bin\Debug\ElevatorBrain.exe
+C:\Users\Cliente\Documents\Programacao\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\bin\Debug\ElevatorBrain.pdb
+C:\Users\Cliente\Documents\Programacao\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\obj\Debug\ElevatorBrain.csprojAssemblyReference.cache
+C:\Users\Cliente\Documents\Programacao\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\obj\Debug\ElevatorBrain.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Programacao\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\obj\Debug\ElevatorBrain.exe
+C:\Users\Cliente\Documents\Programacao\Pirple-Atictivy\ElevatorBrain\ElevatorBrain\obj\Debug\ElevatorBrain.pdb

@@ -1,0 +1,7 @@
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\timeAdder\timeAdder\bin\Debug\timeAdder.exe.config
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\timeAdder\timeAdder\bin\Debug\timeAdder.exe
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\timeAdder\timeAdder\bin\Debug\timeAdder.pdb
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\timeAdder\timeAdder\obj\Debug\timeAdder.csprojAssemblyReference.cache
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\timeAdder\timeAdder\obj\Debug\timeAdder.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\timeAdder\timeAdder\obj\Debug\timeAdder.exe
+C:\Users\Cliente\Documents\Programação\Pirple-Atictivy\timeAdder\timeAdder\obj\Debug\timeAdder.pdb
